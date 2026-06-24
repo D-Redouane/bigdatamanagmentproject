@@ -1,0 +1,8 @@
+# ignore the saved_spark_models folder and it's content
+saved_spark_models/
+
+# ignore the mimic-iv-clinical-database-2.2 folder and it's content
+mimic-iv-clinical-database-2.2/
+
+# ignore the others folder and it's content
+others/
